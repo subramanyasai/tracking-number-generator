@@ -23,6 +23,8 @@ The generated tracking number follows specific constraints to ensure uniqueness,
 - Returns generated tracking number along with timestamp in RFC 3339 format.
 
 ---
+We have deployed this application to AWS Elastic Beanstalk for demonstration purposes. You can access the API documentation and test the endpoint using Swagger UI at the following URL:
+http://tracking-env.eba-ish3hcr3.ap-southeast-1.elasticbeanstalk.com/webjars/swagger-ui/index.html
 
 ## API Specification
 
